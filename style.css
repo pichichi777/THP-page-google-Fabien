@@ -1,0 +1,35 @@
+#conteneur-1
+{
+	display: flex;
+	flex-direction: flex-end;
+	justify-content: flex-end;
+}
+.element
+{
+	width: 120px;
+	height: 30px;
+}
+
+
+#conteneur-2
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.logo
+{
+	flex-direction: center;
+	align-items: center;
+}
+.recherche
+{
+	flex-direction: center;
+	align-items: center;
+}
+.button_go
+{
+	flex-direction: center;
+	align-items: center;
+}
